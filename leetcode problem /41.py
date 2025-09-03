@@ -1,7 +1,7 @@
 # leetcode - 41
 
 class Solution:
-    def firstMissingPositive(self, nums: List[int]) -> int:
+    def firstMissingPositive(self, nums: list[int]) -> int:
         n= len(nums)
        
         for i in range(n):
