@@ -1,1 +1,0 @@
-# delete all occurrences of a given key in linked list
